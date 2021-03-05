@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+Q1 store 1st 50 odd number/.vscode/launch.json
+Q1 store 1st 50 odd number/.vscode/tasks.json
+Q2 store even num from 200 to 300/.vscode/launch.json
+Q2 store even num from 200 to 300/.vscode/tasks.json
